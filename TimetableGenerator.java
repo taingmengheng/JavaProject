@@ -1,4 +1,4 @@
-// GroupMember:
+// Group4Member:
 // Heng Taingmeng
 // Kim Horlong
 // Chea SokChan
